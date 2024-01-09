@@ -6,6 +6,7 @@
 button:hover {
   background-color: white;
   color: #f00;
+  cursor: alias;
 }
 /* Header section */
 .header-container {
