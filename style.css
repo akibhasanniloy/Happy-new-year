@@ -30,20 +30,18 @@ button:hover {
   transform: translate(-50%, -50%);
 }
 .headertiltle {
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 32px;
   color: #fff;
-  /* margin-top: 10px; */
   font-weight: 400;
   margin-bottom: 0px;
 }
 .headertitleinfo {
   color: #fff;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   margin-top: 25px;
   font-size: 72px;
   font-weight: 900;
-  /* width: 600px; */
 }
 
 /* Discount Section */
@@ -103,7 +101,7 @@ button:hover {
 .midpartyheading {
   width: 642px;
   color: #fff;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 64px;
   font-weight: 900;
   line-height: 80px;
@@ -203,7 +201,7 @@ button:hover {
 }
 .offer-coming {
   color: #070211;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 48px;
   font-weight: 900;
   text-transform: capitalize;
@@ -274,7 +272,7 @@ button:hover {
 }
 .holidaysale-sh {
   color: #070211;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 72px;
   font-weight: 900;
   margin-top: 16px;
@@ -330,7 +328,7 @@ button:hover {
 }
 .bestgift-title {
   color: #070211;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 48px;
   font-weight: 900;
   text-transform: capitalize;
@@ -374,7 +372,7 @@ button:hover {
 }
 .subsNews-heading {
   color: #070211;
-  font-family: "Merriweather", serif;
+  font-family: 'Noto Serif', serif;
   font-size: 48px;
   font-weight: 900;
   text-transform: capitalize;
