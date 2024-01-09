@@ -287,20 +287,22 @@
 }
 .holidaysale-images {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   background-image: url("Rectangle\ 2.png"), url("Rectangle\ 1.png");
   background-repeat: no-repeat;
   border-radius: 16px 0px 16px 16px;
   background-position: bottom left, top right;
   margin-top: 64px;
 }
-.holidaysalesimgr {
-  background-image: ;
-  width: 429px;
-  height: 433px;
-  background-repeat: no-repeat;
-  background-position: top right;
-  border-radius: 16px 16px 0px 0px;
+.holidaysalefimg{
+  width: 720px;
+  height: 650px;
+}
+.holidaysalesimg {
+  height: 220px;
+  margin-top: 150px;
+  margin-left: 60px;
+  width: 220px;
 }
 
 /* best gift section */
